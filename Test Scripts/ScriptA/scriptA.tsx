@@ -1,0 +1,1 @@
+const scriptA = console.log("Running Script A");
